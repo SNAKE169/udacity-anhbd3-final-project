@@ -1,0 +1,9 @@
+{
+	"name": "anhbd3adf",
+	"location": "japaneast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "50848948-4442-4db8-ac5e-40ffc1b8b5c5",
+		"tenantId": "2b7bdc6e-b900-4c29-9677-4c7fb5ab8b40"
+	}
+}
